@@ -1,0 +1,15 @@
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\obj\Debug\net6.0\Problem23.csproj.AssemblyReference.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\obj\Debug\net6.0\Problem23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\obj\Debug\net6.0\Problem23.AssemblyInfoInputs.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\obj\Debug\net6.0\Problem23.AssemblyInfo.cs
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\obj\Debug\net6.0\Problem23.csproj.CoreCompileInputs.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\bin\Debug\net6.0\Problem23.exe
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\bin\Debug\net6.0\Problem23.deps.json
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\bin\Debug\net6.0\Problem23.runtimeconfig.json
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\bin\Debug\net6.0\Problem23.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\bin\Debug\net6.0\Problem23.pdb
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\obj\Debug\net6.0\Problem23.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\obj\Debug\net6.0\refint\Problem23.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\obj\Debug\net6.0\Problem23.pdb
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\obj\Debug\net6.0\Problem23.genruntimeconfig.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #3\Problem23\obj\Debug\net6.0\ref\Problem23.dll
