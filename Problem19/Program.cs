@@ -4,19 +4,25 @@
 //12821 -> да
 //23432 -> да
 
-
-
-void Main()
-{
-    int[] number = {12821};
-    //int reverse = 0;
-    if (number[0]==number[4] || number[1]==number[3])
+    void Palindrome(string[] args)
     {
-        Console.WriteLine("Ваше число- палиндром.");
+        int number = 14212;
+        int remainder;
+        int sum = 0;
+        int temporary = number;
+        while (number > 0)
+        {  
+            remainder = number % 10;
+            sum = (sum * 10) + remainder;
+            number = number / 10;
+        }
+        if (temporary == sum)
+        {
+            Console.WriteLine($"Number {temporary} is Palindrome.");
+        }
+        else
+        {
+            Console.WriteLine($"Number {temporary} is not Palindrome");
+        }
     }
-    else
-   
-}
-
-Main();
-
+    Palindrome(args);
